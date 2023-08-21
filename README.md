@@ -1,14 +1,14 @@
 Hi 👋 My name is Deep Patel
 ===========================
 
-Full stack Developer
+Software Developer
 --------------------
 
 I have been learning the web development since 2020 and everyday I am trying to learn new things.
 
 * 🌍  I'm based in London,ON
 * ✉️  You can contact me at [pdeep1506@gmail.com](mailto:pdeep1506@gmail.com)
-* 🧠  I'm learning React Native
+
 
 
 
