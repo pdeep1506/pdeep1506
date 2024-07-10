@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Deep Patel<br><br>A passionate Software developer<br><br><br>
+Hi 👋, I'm Deep Patel<br><br>A passionate web full-stack developer with experience in building high-performance applications using React, TypeScript, and Node.js. I enjoy creating intuitive user interfaces and efficient backend systems. I have a strong background in integrating third-party APIs, managing state with Redux, and deploying scalable solutions on AWS. Currently, I'm expanding my skills in mobile application development.<br><br><br>
 
 
 ## 🌐 Socials:
