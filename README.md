@@ -38,4 +38,4 @@ I am available for freelance DevOps, cloud, and full-stack projects. If you have
 [![Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pdeep1506.hashnode.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pdeep1506)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdeep1506@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://YOUR-PORTFOLIO-URL](https://pdeep1506.tech/Skill))
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)]([[https://YOUR-PORTFOLIO-URL](https://pdeep1506.tech)])
